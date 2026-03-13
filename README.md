@@ -11,6 +11,13 @@ C & D
 G & H 
 \end{bmatrix}
 ```
+where,
+```math
+I = AE + BG \\\\
+J = AF + BH \\\\
+K = CE + DG \\\\
+L = CF + DH \\\\
+```
 # A screenshot of the algorithm's code
 ![A screenshot of the algorithm](MatrixMultiplierCode.png)
 # A screenshot of the main function to run the code (with sample matrices)
