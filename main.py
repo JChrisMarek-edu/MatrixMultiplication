@@ -2,8 +2,8 @@ import MatrixMultiplication as mm
 import numpy as np
 
 def main():
-    m1 = np.array([
-        [9, 8, 1, 2],
+    m1 = np.array([ #example numbers from zybooks used for easy testing
+        [9, 8, 1, 2], 
         [0, 7, 2, 9],
         [6, 4, 3, 5],
         [5, 2, 8, 6]
